@@ -1,0 +1,8 @@
+node_modules
+.idea
+.npm
+test/
+docs/_book
+dist/
+npm-debug.log
+yarn-error.lo
